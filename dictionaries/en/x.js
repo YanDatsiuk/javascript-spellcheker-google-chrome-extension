@@ -1,70 +1,75 @@
-x
-xenon
-xenon's
-xenophobe
-xenophobe's
-xenophobes
-xenophobia
-xenophobia's
-xenophobic
-xerographic
-xerography
-xerography's
-xi
-xii
-xiii
-xiv
-xix
-xv
-xvi
-xvii
-xviii
-xx
-xxi
-xxii
-xxiii
-xxiv
-xxix
-xxv
-xxvi
-xxvii
-xxviii
-xxx
-xxxi
-xxxii
-xxxiii
-xxxiv
-xxxix
-xxxv
-xxxvi
-xxxvii
-xxxviii
-xylem
-xylem's
-xylophone
-xylophone's
-xylophones
-xylophonist
-xylophonists
-X
-X's
-Xanthippe
-Xanthippe's
-Xavier
-Xavier's
-Xenia
-Xenia's
-Xerox
-Xerox's
-Xeroxed
-Xeroxes
-Xeroxing
-Xerxes
-Xhosa
-Xhosa's
-Xian
-Xiaoping
-Xiaoping's
-Xmas
-Xmas's
-Xmases
+var spellc_dictionary_words = [
+    "x",
+    "xenon",
+    "xenon's",
+    "xenophobe",
+    "xenophobe's",
+    "xenophobes",
+    "xenophobia",
+    "xenophobia's",
+    "xenophobic",
+    "xerographic",
+    "xerography",
+    "xerography's",
+    "xi",
+    "xii",
+    "xiii",
+    "xiv",
+    "xix",
+    "xv",
+    "xvi",
+    "xvii",
+    "xviii",
+    "xx",
+    "xxi",
+    "xxii",
+    "xxiii",
+    "xxiv",
+    "xxix",
+    "xxv",
+    "xxvi",
+    "xxvii",
+    "xxviii",
+    "xxx",
+    "xxxi",
+    "xxxii",
+    "xxxiii",
+    "xxxiv",
+    "xxxix",
+    "xxxv",
+    "xxxvi",
+    "xxxvii",
+    "xxxviii",
+    "xylem",
+    "xylem's",
+    "xylophone",
+    "xylophone's",
+    "xylophones",
+    "xylophonist",
+    "xylophonists",
+    "X",
+    "X's",
+    "Xanthippe",
+    "Xanthippe's",
+    "Xavier",
+    "Xavier's",
+    "Xenia",
+    "Xenia's",
+    "Xerox",
+    "Xerox's",
+    "Xeroxed",
+    "Xeroxes",
+    "Xeroxing",
+    "Xerxes",
+    "Xhosa",
+    "Xhosa's",
+    "Xian",
+    "Xiaoping",
+    "Xiaoping's",
+    "Xmas",
+    "Xmas's",
+    "Xmases",
+];
+chrome.storage.sync.set({"spellc_dic_en_x": spellc_dictionary_words}, function () {
+    console.log('data was recorded');
+});

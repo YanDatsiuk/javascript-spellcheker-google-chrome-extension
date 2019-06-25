@@ -6,6 +6,7 @@
     "activeTab",
     "declarativeContent",
     "storage",
+    "unlimitedStorage",
     "*://stackoverflow.com/*"
   ],
   "options_page": "options.html",

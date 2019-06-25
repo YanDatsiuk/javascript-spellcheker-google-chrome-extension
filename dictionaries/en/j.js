@@ -1,1313 +1,1318 @@
-j
-jab
-jabbed
-jabber
-jabbered
-jabberer
-jabberer's
-jabberers
-jabbering
-jabbers
-jabbing
-jabot
-jabot's
-jabots
-jabs
-jacaranda
-jacaranda's
-jacarandas
-jack
-jack's
-jackal
-jackal's
-jackals
-jackass
-jackass's
-jackasses
-jackboot
-jackboot's
-jackbooted
-jackboots
-jackdaw
-jackdaw's
-jackdaws
-jacked
-jackeroo
-jacket
-jacket's
-jacketed
-jackets
-jackhammer
-jackhammer's
-jackhammers
-jacking
-jackpot
-jackpot's
-jackpots
-jackrabbit
-jackrabbits
-jacks
-jackstraw
-jackstraw's
-jackstraws
-jacquard
-jacquard's
-jade
-jade's
-jaded
-jadedly
-jadedness
-jadeite
-jadeite's
-jades
-jading
-jag
-jagged
-jaggedly
-jaggedness
-jaggedness's
-jags
-jaguar
-jaguar's
-jaguars
-jail
-jail's
-jailbird
-jailbird's
-jailbirds
-jailbreak
-jailbreak's
-jailbreaks
-jailed
-jailer
-jailer's
-jailers
-jailhouse
-jailhouse's
-jailhouses
-jailing
-jails
-jalape�o
-jalape�os
-jalopies
-jalopy
-jalopy's
-jalousie
-jalousie's
-jalousies
-jam
-jam's
-jamb
-jamb's
-jambalaya
-jambalaya's
-jamboree
-jamboree's
-jamborees
-jambs
-jammed
-jammier
-jammiest
-jamming
-jammy
-jams
-jangle
-jangled
-jangler
-jangler's
-janglers
-jangles
-jangling
-janitor
-janitor's
-janitorial
-janitors
-japanned
-japanning
-japans
-jape
-jape's
-japed
-japes
-japing
-jar
-jar's
-jardini�re
-jardini�re's
-jardini�res
-jarful
-jarfuls
-jargon
-jargon's
-jargonise
-jargonised
-jargonises
-jargonising
-jargonize
-jargonized
-jargonizes
-jargonizing
-jarrah
-jarred
-jarring
-jarringly
-jars
-jasmine
-jasmine's
-jasmines
-jasper
-jasper's
-jaundice
-jaundice's
-jaundiced
-jaundices
-jaundicing
-jaunt
-jaunt's
-jaunted
-jauntier
-jaunties
-jauntiest
-jauntily
-jauntiness
-jaunting
-jaunts
-jaunty
-java
-javelin
-javelin's
-javelins
-jaw
-jaw's
-jawbone
-jawbone's
-jawboned
-jawbones
-jawboning
-jawbreaker
-jawbreaker's
-jawbreakers
-jawed
-jawing
-jaws
-jay
-jay's
-jaybird
-jaybird's
-jaybirds
-jays
-jaywalk
-jaywalked
-jaywalker
-jaywalker's
-jaywalkers
-jaywalking
-jaywalks
-jazz
-jazz's
-jazzed
-jazzes
-jazzier
-jazziest
-jazzing
-jazzy
-jealous
-jealousies
-jealously
-jealousy
-jealousy's
-jean
-jeans
-jeep
-jeep's
-jeeps
-jeer
-jeered
-jeering
-jeeringly
-jeers
-jeez
-jejuna
-jejune
-jejunum
-jejunum's
-jell
-jelled
-jellied
-jellies
-jells
-jelly
-jelly's
-jellybean
-jellybean's
-jellybeans
-jellyfish
-jellyfish's
-jellyfishes
-jellying
-jellylike
-jellyroll
-jellyrolls
-jemmied
-jemmies
-jemmy
-jemmy's
-jemmying
-jennet
-jennet's
-jennets
-jennies
-jenny
-jenny's
-jeopardise
-jeopardised
-jeopardises
-jeopardising
-jeopardize
-jeopardized
-jeopardizes
-jeopardizing
-jeopardy
-jeopardy's
-jeremiad
-jeremiad's
-jeremiads
-jerk
-jerked
-jerkier
-jerkiest
-jerkily
-jerkin
-jerkin's
-jerkiness
-jerkiness's
-jerking
-jerkins
-jerks
-jerkwater
-jerky
-jeroboam
-jeroboam's
-jeroboams
-jersey
-jersey's
-jerseys
-jest
-jest's
-jested
-jester
-jester's
-jesters
-jesting
-jestingly
-jests
-jet
-jet's
-jetliner
-jetliner's
-jetliners
-jetport
-jetport's
-jetports
-jets
-jetsam
-jetsam's
-jetted
-jetties
-jetting
-jettison
-jettisoned
-jettisoning
-jettisons
-jetty
-jetty's
-jewel
-jewel's
-jeweled
-jeweler
-jeweler's
-jewelers
-jewelled
-jeweller
-jeweller's
-jewelleries
-jewellers
-jewellery
-jewellery's
-jewelling
-jewels
-jewfish
-jib
-jib's
-jibbed
-jibbing
-jibe
-jibed
-jibes
-jibing
-jibs
-jiff
-jiffies
-jiffs
-jiffy
-jiffy's
-jig
-jig's
-jigged
-jigger
-jigger's
-jiggered
-jiggering
-jiggers
-jigging
-jiggle
-jiggled
-jiggles
-jiggling
-jigs
-jigsaw
-jigsaw's
-jigsaws
-jihad
-jihad's
-jihads
-jillaroo
-jilt
-jilted
-jilting
-jilts
-jimmied
-jimmies
-jimmy
-jimmy's
-jimmying
-jimsonweed
-jingle
-jingled
-jingles
-jinglier
-jingliest
-jingling
-jingly
-jingo
-jingo's
-jingoism
-jingoism's
-jingoist
-jingoist's
-jingoistic
-jingoists
-jink
-jinked
-jinking
-jinks
-jinn
-jinn's
-jinni's
-jinrikisha
-jinx
-jinx's
-jinxed
-jinxes
-jinxing
-jitney
-jitney's
-jitneys
-jitter
-jitterbug
-jitterbug's
-jitterbugged
-jitterbugging
-jitterbugs
-jitters
-jittery
-jive
-jive's
-jived
-jives
-jiving
-job
-job's
-jobbed
-jobber
-jobber's
-jobbers
-jobbing
-jobholder
-jobholder's
-jobholders
-jobless
-joblessness
-joblessness's
-jobs
-jock
-jock's
-jockey
-jockey's
-jockeyed
-jockeying
-jockeys
-jocks
-jockstrap
-jockstrap's
-jockstraps
-jocose
-jocosely
-jocoseness
-jocosity
-jocosity's
-jocular
-jocularity
-jocularity's
-jocularly
-jocund
-jocundity
-jocundity's
-jocundly
-jodhpurs
-joeys
-jog
-jogged
-jogger
-jogger's
-joggers
-jogging
-joggle
-joggled
-joggles
-joggling
-jogs
-john
-john's
-johnnies
-johnnycake
-johnnycake's
-johnnycakes
-johns
-join
-joined
-joiner
-joiner's
-joiners
-joinery
-joinery's
-joining
-joins
-joint
-joint's
-jointed
-jointing
-jointly
-joints
-jointures
-joist
-joist's
-joists
-jojoba
-jojoba's
-joke
-joke's
-joked
-joker
-joker's
-jokers
-jokes
-jokily
-joking
-jokingly
-jollied
-jollier
-jollies
-jolliest
-jollification
-jollification's
-jollifications
-jollily
-jolliness
-jollity
-jollity's
-jolly
-jollying
-jolt
-jolted
-jolter
-jolter's
-jolters
-jolting
-jolts
-jonquil
-jonquil's
-jonquils
-josh
-joshed
-josher
-josher's
-joshers
-joshes
-joshing
-josser
-jostle
-jostled
-jostles
-jostling
-jot
-jots
-jotted
-jotter
-jotter's
-jotters
-jotting
-jotting's
-jottings
-joule
-joule's
-joules
-jounce
-jounced
-jounces
-jouncing
-jour
-journal
-journal's
-journalese
-journalese's
-journalise
-journalised
-journalises
-journalising
-journalism
-journalism's
-journalist
-journalist's
-journalistic
-journalists
-journalize
-journalized
-journalizes
-journalizing
-journals
-journey
-journey's
-journeyed
-journeyers
-journeying
-journeyman
-journeyman's
-journeymen
-journeys
-journo
-joust
-joust's
-jousted
-jouster
-jouster's
-jousters
-jousting
-jousts
-jovial
-joviality
-joviality's
-jovially
-jowl
-jowl's
-jowls
-jowly
-joy
-joy's
-joyful
-joyfully
-joyfulness
-joyfulness's
-joyless
-joylessly
-joylessness
-joyous
-joyously
-joyousness
-joyousness's
-joyride
-joyride's
-joyrides
-joyriding
-joys
-joystick
-joysticks
-jube
-jubilant
-jubilantly
-jubilation
-jubilation's
-jubilee
-jubilee's
-jubilees
-judder
-juddered
-juddering
-judders
-judge
-judge's
-judged
-judgement
-judgement's
-judgemental
-judgements
-judges
-judgeship
-judgeship's
-judging
-judgment
-judgment's
-judgmental
-judgmentally
-judgments
-judicatories
-judicatory
-judicature
-judicature's
-judicial
-judicially
-judiciaries
-judiciary
-judicious
-judiciously
-judiciousness
-judo
-judo's
-jug
-jug's
-jugged
-juggernaut
-juggernaut's
-juggernauts
-jugging
-juggle
-juggled
-juggler
-juggler's
-jugglers
-jugglery
-juggles
-juggling
-jugs
-jugular
-jugulars
-juice
-juice's
-juiced
-juicer
-juicer's
-juicers
-juices
-juicier
-juiciest
-juicily
-juiciness
-juiciness's
-juicing
-juicy
-jujitsu
-jujitsu's
-jujube
-jujube's
-jujubes
-jukebox
-jukebox's
-jukeboxes
-julep
-julep's
-juleps
-julienne
-juliennes
-jumble
-jumbled
-jumbles
-jumbling
-jumbo
-jumbo's
-jumbos
-jumbuck
-jump
-jumped
-jumper
-jumper's
-jumpers
-jumpier
-jumpiest
-jumpily
-jumpiness
-jumpiness's
-jumping
-jumps
-jumpsuit
-jumpsuits
-jumpy
-junco
-junco's
-juncos
-junction
-junction's
-junctions
-juncture
-juncture's
-junctures
-jungle
-jungle's
-jungles
-junior
-juniors
-juniper
-juniper's
-junipers
-junk
-junk's
-junked
-junket
-junket's
-junketed
-junketeer
-junketeer's
-junketeers
-junketing
-junkets
-junkie
-junkie's
-junkies
-junking
-junks
-junkyard
-junkyard's
-junkyards
-junta
-junta's
-juntas
-juridical
-juries
-jurisdiction
-jurisdiction's
-jurisdictional
-jurisdictions
-jurisprudence
-jurisprudence's
-jurisprudential
-jurist
-jurist's
-juristic
-jurists
-juror
-juror's
-jurors
-jury
-jury's
-juryman
-juryman's
-jurymen
-jurywoman
-jurywoman's
-jurywomen
-jus
-jussive
-just
-justice
-justice's
-justices
-justifiability
-justifiability's
-justifiable
-justifiably
-justification
-justification's
-justifications
-justificatory
-justified
-justifies
-justify
-justifying
-justly
-justness
-justness's
-jut
-jute
-jute's
-juts
-jutted
-jutting
-juvenile
-juveniles
-juxtapose
-juxtaposed
-juxtaposes
-juxtaposing
-juxtaposition
-juxtaposition's
-juxtapositions
-J
-J's
-Jacinta
-Jacinta's
-Jack
-Jack's
-Jackie
-Jackie's
-Jackson
-Jackson's
-Jacksonville
-Jacksonville's
-Jacky
-Jacky's
-Jaclyn
-Jaclyn's
-Jacob
-Jacob's
-Jacobean
-Jacobin
-Jacobin's
-Jacobs
-Jacobson
-Jacobson's
-Jacquard
-Jacquard's
-Jacquards
-Jacqueline
-Jacqueline's
-Jacquelyn
-Jacquelyn's
-Jacques
-Jacqui
-Jacqui's
-Jacquie
-Jacquie's
-Jacuzzi
-Jacuzzis
-Jade
-Jade's
-Jaguar
-Jaguar's
-Jaime
-Jaime's
-Jain
-Jain's
-Jainism
-Jainism's
-Jakarta
-Jakarta's
-Jake
-Jake's
-Jamaal
-Jamaal's
-Jamaica
-Jamaica's
-Jamaican
-Jamaicans
-Jamal
-Jamal's
-James
-Jameson
-Jameson's
-Jamestown
-Jamestown's
-Jamey
-Jamey's
-Jamie
-Jamie's
-Jamison
-Jamison's
-Jan
-Jan's
-Jana
-Jana's
-Jane
-Jane's
-Janelle
-Janelle's
-Janet
-Janet's
-Janette
-Janette's
-Janice
-Janice's
-Janie
-Janie's
-Janine
-Janine's
-Janis
-Janis's
-Janissary
-Janissary's
-Janna
-Janna's
-Jansen
-Jansen's
-Januaries
-January
-January's
-Japan
-Japan's
-Japanese
-Jared
-Jared's
-Jarred
-Jarrett
-Jarrett's
-Jarrod
-Jarrod's
-Jarvis
-Jarvis's
-Jasmine
-Jasmine's
-Jason
-Jason's
-Jasper
-Jasper's
-Java
-Java's
-Javanese
-Javier
-Javier's
-Jay
-Jay's
-Jaycee
-Jaycee's
-Jaycees
-Jayne
-Jayne's
-Jean
-Jean's
-Jeanette
-Jeanette's
-Jeanie
-Jeanie's
-Jeanine
-Jeanine's
-Jeanne
-Jeanne's
-Jeannette
-Jeannette's
-Jeannie
-Jeannie's
-Jeannine
-Jeannine's
-Jed
-Jed's
-Jedi
-Jedi's
-Jeep
-Jeeps
-Jeff
-Jeff's
-Jefferson
-Jefferson's
-Jeffery
-Jeffery's
-Jeffrey
-Jeffrey's
-Jehovah
-Jehovah's
-Jekyll
-Jemima
-Jemima's
-Jemmy
-Jemmy's
-Jen
-Jen's
-Jena
-Jena's
-Jenkins
-Jenkins's
-Jenna
-Jenna's
-Jennie
-Jennie's
-Jennifer
-Jennifer's
-Jennings
-Jennings's
-Jenny
-Jenny's
-Jens
-Jensen
-Jensen's
-Jerald
-Jerald's
-Jeremiah
-Jeremiah's
-Jeremiahs
-Jeremy
-Jeremy's
-Jeri
-Jeri's
-Jericho
-Jericho's
-Jeroboam
-Jeroboam's
-Jerold
-Jerold's
-Jerome
-Jerome's
-Jerrod
-Jerrod's
-Jerrold
-Jerrold's
-Jerry
-Jerry's
-Jersey
-Jersey's
-Jerseys
-Jerusalem
-Jerusalem's
-Jervis
-Jervis's
-Jess
-Jess's
-Jesse
-Jesse's
-Jessica
-Jessica's
-Jessie
-Jessie's
-Jesuit
-Jesuit's
-Jesuits
-Jesus
-Jew
-Jew's
-Jewel
-Jewel's
-Jewell
-Jewell's
-Jewess
-Jewess's
-Jewesses
-Jewish
-Jewries
-Jewry
-Jewry's
-Jews
-Jezebel
-Jezebel's
-Jezebels
-Jill
-Jill's
-Jillian
-Jillian's
-Jim
-Jim's
-Jimenez
-Jimenez's
-Jimmie
-Jimmie's
-Jimmy
-Jimmy's
-Jo
-Jo's
-Joachim
-Joachim's
-Joan
-Joan's
-Joann
-Joann's
-Joanna
-Joanna's
-Joanne
-Joanne's
-Joaquin
-Joaquin's
-Job
-Job's
-Jobs
-Jocelyn
-Jocelyn's
-Jock
-Jock's
-Jockey
-Jocko
-Jocko's
-Jodi
-Jodi's
-Jodie
-Jodie's
-Jody
-Jody's
-Joe
-Joe's
-Joel
-Joel's
-Joes
-Joey
-Joey's
-Johan
-Johan's
-Johann
-Johanna
-Johanna's
-Johannes
-Johannesburg
-Johannesburg's
-John
-John's
-Johnnie
-Johnnie's
-Johnny
-Johnny's
-Johns
-Johnson
-Johnson's
-Johnston
-Johnston's
-Jolene
-Jolene's
-Joliet's
-Jon
-Jon's
-Jonah
-Jonah's
-Jonahs
-Jonas
-Jonathan
-Jonathan's
-Jonathon
-Jonathon's
-Jones
-Joneses
-Joni
-Joni's
-Joplin
-Joplin's
-Jordan
-Jordan's
-Jordanian
-Jordanians
-Jordon
-Jordon's
-Jorge
-Jorge's
-Jose
-Jose's
-Josef
-Josef's
-Josefina
-Josefina's
-Joseph
-Joseph's
-Josephina
-Josephina's
-Josephine
-Josephine's
-Josephs
-Josephus
-Josephus's
-Josh
-Josh's
-Joshua
-Joshua's
-Josiah
-Josiah's
-Josie
-Josie's
-Joule
-Joule's
-Jove
-Jove's
-Joy
-Joy's
-Joyce
-Joyce's
-Joyner
-Joyner's
-Juan
-Juan's
-Juana
-Juana's
-Juanita
-Juanita's
-Juarez
-Jud
-Judah
-Judah's
-Judaic
-Judaism
-Judaism's
-Judas
-Judases
-Judd
-Judd's
-Jude
-Jude's
-Judea
-Judea's
-Judean
-Judeans
-Judges
-Judi
-Judi's
-Judie
-Judie's
-Judith
-Judith's
-Judson
-Judson's
-Judy
-Judy's
-Juggernaut
-Juggernaut's
-Jul
-Jul's
-Jules
-Julia
-Julia's
-Julian
-Julian's
-Juliana
-Juliana's
-Juliann
-Juliann's
-Julianne
-Julianne's
-Julie
-Julie's
-Julienne
-Julienne's
-Julies
-Juliet
-Juliet's
-Julio
-Julio's
-Julius
-Julius's
-Julliard
-Julliard's
-July
-July's
-Jun
-June
-June's
-Juneau
-Juneau's
-Junes
-Jung
-Jung's
-Jungian
-Jungians
-Junior
-Juniors
-Junker
-Junker's
-Junkers
-Juno
-Juno's
-Jupiter
-Jupiter's
-Jurassic
-Justice
-Justice's
-Justin
-Justin's
-Justine
-Justine's
-Justinian
-Justinian's
-Justus
-Justus's
-Jutland
-Jutland's
-Juvenal
-Juvenal's
+var spellc_dictionary_words = [
+    "j",
+    "jab",
+    "jabbed",
+    "jabber",
+    "jabbered",
+    "jabberer",
+    "jabberer's",
+    "jabberers",
+    "jabbering",
+    "jabbers",
+    "jabbing",
+    "jabot",
+    "jabot's",
+    "jabots",
+    "jabs",
+    "jacaranda",
+    "jacaranda's",
+    "jacarandas",
+    "jack",
+    "jack's",
+    "jackal",
+    "jackal's",
+    "jackals",
+    "jackass",
+    "jackass's",
+    "jackasses",
+    "jackboot",
+    "jackboot's",
+    "jackbooted",
+    "jackboots",
+    "jackdaw",
+    "jackdaw's",
+    "jackdaws",
+    "jacked",
+    "jackeroo",
+    "jacket",
+    "jacket's",
+    "jacketed",
+    "jackets",
+    "jackhammer",
+    "jackhammer's",
+    "jackhammers",
+    "jacking",
+    "jackpot",
+    "jackpot's",
+    "jackpots",
+    "jackrabbit",
+    "jackrabbits",
+    "jacks",
+    "jackstraw",
+    "jackstraw's",
+    "jackstraws",
+    "jacquard",
+    "jacquard's",
+    "jade",
+    "jade's",
+    "jaded",
+    "jadedly",
+    "jadedness",
+    "jadeite",
+    "jadeite's",
+    "jades",
+    "jading",
+    "jag",
+    "jagged",
+    "jaggedly",
+    "jaggedness",
+    "jaggedness's",
+    "jags",
+    "jaguar",
+    "jaguar's",
+    "jaguars",
+    "jail",
+    "jail's",
+    "jailbird",
+    "jailbird's",
+    "jailbirds",
+    "jailbreak",
+    "jailbreak's",
+    "jailbreaks",
+    "jailed",
+    "jailer",
+    "jailer's",
+    "jailers",
+    "jailhouse",
+    "jailhouse's",
+    "jailhouses",
+    "jailing",
+    "jails",
+    "jalape�o",
+    "jalape�os",
+    "jalopies",
+    "jalopy",
+    "jalopy's",
+    "jalousie",
+    "jalousie's",
+    "jalousies",
+    "jam",
+    "jam's",
+    "jamb",
+    "jamb's",
+    "jambalaya",
+    "jambalaya's",
+    "jamboree",
+    "jamboree's",
+    "jamborees",
+    "jambs",
+    "jammed",
+    "jammier",
+    "jammiest",
+    "jamming",
+    "jammy",
+    "jams",
+    "jangle",
+    "jangled",
+    "jangler",
+    "jangler's",
+    "janglers",
+    "jangles",
+    "jangling",
+    "janitor",
+    "janitor's",
+    "janitorial",
+    "janitors",
+    "japanned",
+    "japanning",
+    "japans",
+    "jape",
+    "jape's",
+    "japed",
+    "japes",
+    "japing",
+    "jar",
+    "jar's",
+    "jardini�re",
+    "jardini�re's",
+    "jardini�res",
+    "jarful",
+    "jarfuls",
+    "jargon",
+    "jargon's",
+    "jargonise",
+    "jargonised",
+    "jargonises",
+    "jargonising",
+    "jargonize",
+    "jargonized",
+    "jargonizes",
+    "jargonizing",
+    "jarrah",
+    "jarred",
+    "jarring",
+    "jarringly",
+    "jars",
+    "jasmine",
+    "jasmine's",
+    "jasmines",
+    "jasper",
+    "jasper's",
+    "jaundice",
+    "jaundice's",
+    "jaundiced",
+    "jaundices",
+    "jaundicing",
+    "jaunt",
+    "jaunt's",
+    "jaunted",
+    "jauntier",
+    "jaunties",
+    "jauntiest",
+    "jauntily",
+    "jauntiness",
+    "jaunting",
+    "jaunts",
+    "jaunty",
+    "java",
+    "javelin",
+    "javelin's",
+    "javelins",
+    "jaw",
+    "jaw's",
+    "jawbone",
+    "jawbone's",
+    "jawboned",
+    "jawbones",
+    "jawboning",
+    "jawbreaker",
+    "jawbreaker's",
+    "jawbreakers",
+    "jawed",
+    "jawing",
+    "jaws",
+    "jay",
+    "jay's",
+    "jaybird",
+    "jaybird's",
+    "jaybirds",
+    "jays",
+    "jaywalk",
+    "jaywalked",
+    "jaywalker",
+    "jaywalker's",
+    "jaywalkers",
+    "jaywalking",
+    "jaywalks",
+    "jazz",
+    "jazz's",
+    "jazzed",
+    "jazzes",
+    "jazzier",
+    "jazziest",
+    "jazzing",
+    "jazzy",
+    "jealous",
+    "jealousies",
+    "jealously",
+    "jealousy",
+    "jealousy's",
+    "jean",
+    "jeans",
+    "jeep",
+    "jeep's",
+    "jeeps",
+    "jeer",
+    "jeered",
+    "jeering",
+    "jeeringly",
+    "jeers",
+    "jeez",
+    "jejuna",
+    "jejune",
+    "jejunum",
+    "jejunum's",
+    "jell",
+    "jelled",
+    "jellied",
+    "jellies",
+    "jells",
+    "jelly",
+    "jelly's",
+    "jellybean",
+    "jellybean's",
+    "jellybeans",
+    "jellyfish",
+    "jellyfish's",
+    "jellyfishes",
+    "jellying",
+    "jellylike",
+    "jellyroll",
+    "jellyrolls",
+    "jemmied",
+    "jemmies",
+    "jemmy",
+    "jemmy's",
+    "jemmying",
+    "jennet",
+    "jennet's",
+    "jennets",
+    "jennies",
+    "jenny",
+    "jenny's",
+    "jeopardise",
+    "jeopardised",
+    "jeopardises",
+    "jeopardising",
+    "jeopardize",
+    "jeopardized",
+    "jeopardizes",
+    "jeopardizing",
+    "jeopardy",
+    "jeopardy's",
+    "jeremiad",
+    "jeremiad's",
+    "jeremiads",
+    "jerk",
+    "jerked",
+    "jerkier",
+    "jerkiest",
+    "jerkily",
+    "jerkin",
+    "jerkin's",
+    "jerkiness",
+    "jerkiness's",
+    "jerking",
+    "jerkins",
+    "jerks",
+    "jerkwater",
+    "jerky",
+    "jeroboam",
+    "jeroboam's",
+    "jeroboams",
+    "jersey",
+    "jersey's",
+    "jerseys",
+    "jest",
+    "jest's",
+    "jested",
+    "jester",
+    "jester's",
+    "jesters",
+    "jesting",
+    "jestingly",
+    "jests",
+    "jet",
+    "jet's",
+    "jetliner",
+    "jetliner's",
+    "jetliners",
+    "jetport",
+    "jetport's",
+    "jetports",
+    "jets",
+    "jetsam",
+    "jetsam's",
+    "jetted",
+    "jetties",
+    "jetting",
+    "jettison",
+    "jettisoned",
+    "jettisoning",
+    "jettisons",
+    "jetty",
+    "jetty's",
+    "jewel",
+    "jewel's",
+    "jeweled",
+    "jeweler",
+    "jeweler's",
+    "jewelers",
+    "jewelled",
+    "jeweller",
+    "jeweller's",
+    "jewelleries",
+    "jewellers",
+    "jewellery",
+    "jewellery's",
+    "jewelling",
+    "jewels",
+    "jewfish",
+    "jib",
+    "jib's",
+    "jibbed",
+    "jibbing",
+    "jibe",
+    "jibed",
+    "jibes",
+    "jibing",
+    "jibs",
+    "jiff",
+    "jiffies",
+    "jiffs",
+    "jiffy",
+    "jiffy's",
+    "jig",
+    "jig's",
+    "jigged",
+    "jigger",
+    "jigger's",
+    "jiggered",
+    "jiggering",
+    "jiggers",
+    "jigging",
+    "jiggle",
+    "jiggled",
+    "jiggles",
+    "jiggling",
+    "jigs",
+    "jigsaw",
+    "jigsaw's",
+    "jigsaws",
+    "jihad",
+    "jihad's",
+    "jihads",
+    "jillaroo",
+    "jilt",
+    "jilted",
+    "jilting",
+    "jilts",
+    "jimmied",
+    "jimmies",
+    "jimmy",
+    "jimmy's",
+    "jimmying",
+    "jimsonweed",
+    "jingle",
+    "jingled",
+    "jingles",
+    "jinglier",
+    "jingliest",
+    "jingling",
+    "jingly",
+    "jingo",
+    "jingo's",
+    "jingoism",
+    "jingoism's",
+    "jingoist",
+    "jingoist's",
+    "jingoistic",
+    "jingoists",
+    "jink",
+    "jinked",
+    "jinking",
+    "jinks",
+    "jinn",
+    "jinn's",
+    "jinni's",
+    "jinrikisha",
+    "jinx",
+    "jinx's",
+    "jinxed",
+    "jinxes",
+    "jinxing",
+    "jitney",
+    "jitney's",
+    "jitneys",
+    "jitter",
+    "jitterbug",
+    "jitterbug's",
+    "jitterbugged",
+    "jitterbugging",
+    "jitterbugs",
+    "jitters",
+    "jittery",
+    "jive",
+    "jive's",
+    "jived",
+    "jives",
+    "jiving",
+    "job",
+    "job's",
+    "jobbed",
+    "jobber",
+    "jobber's",
+    "jobbers",
+    "jobbing",
+    "jobholder",
+    "jobholder's",
+    "jobholders",
+    "jobless",
+    "joblessness",
+    "joblessness's",
+    "jobs",
+    "jock",
+    "jock's",
+    "jockey",
+    "jockey's",
+    "jockeyed",
+    "jockeying",
+    "jockeys",
+    "jocks",
+    "jockstrap",
+    "jockstrap's",
+    "jockstraps",
+    "jocose",
+    "jocosely",
+    "jocoseness",
+    "jocosity",
+    "jocosity's",
+    "jocular",
+    "jocularity",
+    "jocularity's",
+    "jocularly",
+    "jocund",
+    "jocundity",
+    "jocundity's",
+    "jocundly",
+    "jodhpurs",
+    "joeys",
+    "jog",
+    "jogged",
+    "jogger",
+    "jogger's",
+    "joggers",
+    "jogging",
+    "joggle",
+    "joggled",
+    "joggles",
+    "joggling",
+    "jogs",
+    "john",
+    "john's",
+    "johnnies",
+    "johnnycake",
+    "johnnycake's",
+    "johnnycakes",
+    "johns",
+    "join",
+    "joined",
+    "joiner",
+    "joiner's",
+    "joiners",
+    "joinery",
+    "joinery's",
+    "joining",
+    "joins",
+    "joint",
+    "joint's",
+    "jointed",
+    "jointing",
+    "jointly",
+    "joints",
+    "jointures",
+    "joist",
+    "joist's",
+    "joists",
+    "jojoba",
+    "jojoba's",
+    "joke",
+    "joke's",
+    "joked",
+    "joker",
+    "joker's",
+    "jokers",
+    "jokes",
+    "jokily",
+    "joking",
+    "jokingly",
+    "jollied",
+    "jollier",
+    "jollies",
+    "jolliest",
+    "jollification",
+    "jollification's",
+    "jollifications",
+    "jollily",
+    "jolliness",
+    "jollity",
+    "jollity's",
+    "jolly",
+    "jollying",
+    "jolt",
+    "jolted",
+    "jolter",
+    "jolter's",
+    "jolters",
+    "jolting",
+    "jolts",
+    "jonquil",
+    "jonquil's",
+    "jonquils",
+    "josh",
+    "joshed",
+    "josher",
+    "josher's",
+    "joshers",
+    "joshes",
+    "joshing",
+    "josser",
+    "jostle",
+    "jostled",
+    "jostles",
+    "jostling",
+    "jot",
+    "jots",
+    "jotted",
+    "jotter",
+    "jotter's",
+    "jotters",
+    "jotting",
+    "jotting's",
+    "jottings",
+    "joule",
+    "joule's",
+    "joules",
+    "jounce",
+    "jounced",
+    "jounces",
+    "jouncing",
+    "jour",
+    "journal",
+    "journal's",
+    "journalese",
+    "journalese's",
+    "journalise",
+    "journalised",
+    "journalises",
+    "journalising",
+    "journalism",
+    "journalism's",
+    "journalist",
+    "journalist's",
+    "journalistic",
+    "journalists",
+    "journalize",
+    "journalized",
+    "journalizes",
+    "journalizing",
+    "journals",
+    "journey",
+    "journey's",
+    "journeyed",
+    "journeyers",
+    "journeying",
+    "journeyman",
+    "journeyman's",
+    "journeymen",
+    "journeys",
+    "journo",
+    "joust",
+    "joust's",
+    "jousted",
+    "jouster",
+    "jouster's",
+    "jousters",
+    "jousting",
+    "jousts",
+    "jovial",
+    "joviality",
+    "joviality's",
+    "jovially",
+    "jowl",
+    "jowl's",
+    "jowls",
+    "jowly",
+    "joy",
+    "joy's",
+    "joyful",
+    "joyfully",
+    "joyfulness",
+    "joyfulness's",
+    "joyless",
+    "joylessly",
+    "joylessness",
+    "joyous",
+    "joyously",
+    "joyousness",
+    "joyousness's",
+    "joyride",
+    "joyride's",
+    "joyrides",
+    "joyriding",
+    "joys",
+    "joystick",
+    "joysticks",
+    "jube",
+    "jubilant",
+    "jubilantly",
+    "jubilation",
+    "jubilation's",
+    "jubilee",
+    "jubilee's",
+    "jubilees",
+    "judder",
+    "juddered",
+    "juddering",
+    "judders",
+    "judge",
+    "judge's",
+    "judged",
+    "judgement",
+    "judgement's",
+    "judgemental",
+    "judgements",
+    "judges",
+    "judgeship",
+    "judgeship's",
+    "judging",
+    "judgment",
+    "judgment's",
+    "judgmental",
+    "judgmentally",
+    "judgments",
+    "judicatories",
+    "judicatory",
+    "judicature",
+    "judicature's",
+    "judicial",
+    "judicially",
+    "judiciaries",
+    "judiciary",
+    "judicious",
+    "judiciously",
+    "judiciousness",
+    "judo",
+    "judo's",
+    "jug",
+    "jug's",
+    "jugged",
+    "juggernaut",
+    "juggernaut's",
+    "juggernauts",
+    "jugging",
+    "juggle",
+    "juggled",
+    "juggler",
+    "juggler's",
+    "jugglers",
+    "jugglery",
+    "juggles",
+    "juggling",
+    "jugs",
+    "jugular",
+    "jugulars",
+    "juice",
+    "juice's",
+    "juiced",
+    "juicer",
+    "juicer's",
+    "juicers",
+    "juices",
+    "juicier",
+    "juiciest",
+    "juicily",
+    "juiciness",
+    "juiciness's",
+    "juicing",
+    "juicy",
+    "jujitsu",
+    "jujitsu's",
+    "jujube",
+    "jujube's",
+    "jujubes",
+    "jukebox",
+    "jukebox's",
+    "jukeboxes",
+    "julep",
+    "julep's",
+    "juleps",
+    "julienne",
+    "juliennes",
+    "jumble",
+    "jumbled",
+    "jumbles",
+    "jumbling",
+    "jumbo",
+    "jumbo's",
+    "jumbos",
+    "jumbuck",
+    "jump",
+    "jumped",
+    "jumper",
+    "jumper's",
+    "jumpers",
+    "jumpier",
+    "jumpiest",
+    "jumpily",
+    "jumpiness",
+    "jumpiness's",
+    "jumping",
+    "jumps",
+    "jumpsuit",
+    "jumpsuits",
+    "jumpy",
+    "junco",
+    "junco's",
+    "juncos",
+    "junction",
+    "junction's",
+    "junctions",
+    "juncture",
+    "juncture's",
+    "junctures",
+    "jungle",
+    "jungle's",
+    "jungles",
+    "junior",
+    "juniors",
+    "juniper",
+    "juniper's",
+    "junipers",
+    "junk",
+    "junk's",
+    "junked",
+    "junket",
+    "junket's",
+    "junketed",
+    "junketeer",
+    "junketeer's",
+    "junketeers",
+    "junketing",
+    "junkets",
+    "junkie",
+    "junkie's",
+    "junkies",
+    "junking",
+    "junks",
+    "junkyard",
+    "junkyard's",
+    "junkyards",
+    "junta",
+    "junta's",
+    "juntas",
+    "juridical",
+    "juries",
+    "jurisdiction",
+    "jurisdiction's",
+    "jurisdictional",
+    "jurisdictions",
+    "jurisprudence",
+    "jurisprudence's",
+    "jurisprudential",
+    "jurist",
+    "jurist's",
+    "juristic",
+    "jurists",
+    "juror",
+    "juror's",
+    "jurors",
+    "jury",
+    "jury's",
+    "juryman",
+    "juryman's",
+    "jurymen",
+    "jurywoman",
+    "jurywoman's",
+    "jurywomen",
+    "jus",
+    "jussive",
+    "just",
+    "justice",
+    "justice's",
+    "justices",
+    "justifiability",
+    "justifiability's",
+    "justifiable",
+    "justifiably",
+    "justification",
+    "justification's",
+    "justifications",
+    "justificatory",
+    "justified",
+    "justifies",
+    "justify",
+    "justifying",
+    "justly",
+    "justness",
+    "justness's",
+    "jut",
+    "jute",
+    "jute's",
+    "juts",
+    "jutted",
+    "jutting",
+    "juvenile",
+    "juveniles",
+    "juxtapose",
+    "juxtaposed",
+    "juxtaposes",
+    "juxtaposing",
+    "juxtaposition",
+    "juxtaposition's",
+    "juxtapositions",
+    "J",
+    "J's",
+    "Jacinta",
+    "Jacinta's",
+    "Jack",
+    "Jack's",
+    "Jackie",
+    "Jackie's",
+    "Jackson",
+    "Jackson's",
+    "Jacksonville",
+    "Jacksonville's",
+    "Jacky",
+    "Jacky's",
+    "Jaclyn",
+    "Jaclyn's",
+    "Jacob",
+    "Jacob's",
+    "Jacobean",
+    "Jacobin",
+    "Jacobin's",
+    "Jacobs",
+    "Jacobson",
+    "Jacobson's",
+    "Jacquard",
+    "Jacquard's",
+    "Jacquards",
+    "Jacqueline",
+    "Jacqueline's",
+    "Jacquelyn",
+    "Jacquelyn's",
+    "Jacques",
+    "Jacqui",
+    "Jacqui's",
+    "Jacquie",
+    "Jacquie's",
+    "Jacuzzi",
+    "Jacuzzis",
+    "Jade",
+    "Jade's",
+    "Jaguar",
+    "Jaguar's",
+    "Jaime",
+    "Jaime's",
+    "Jain",
+    "Jain's",
+    "Jainism",
+    "Jainism's",
+    "Jakarta",
+    "Jakarta's",
+    "Jake",
+    "Jake's",
+    "Jamaal",
+    "Jamaal's",
+    "Jamaica",
+    "Jamaica's",
+    "Jamaican",
+    "Jamaicans",
+    "Jamal",
+    "Jamal's",
+    "James",
+    "Jameson",
+    "Jameson's",
+    "Jamestown",
+    "Jamestown's",
+    "Jamey",
+    "Jamey's",
+    "Jamie",
+    "Jamie's",
+    "Jamison",
+    "Jamison's",
+    "Jan",
+    "Jan's",
+    "Jana",
+    "Jana's",
+    "Jane",
+    "Jane's",
+    "Janelle",
+    "Janelle's",
+    "Janet",
+    "Janet's",
+    "Janette",
+    "Janette's",
+    "Janice",
+    "Janice's",
+    "Janie",
+    "Janie's",
+    "Janine",
+    "Janine's",
+    "Janis",
+    "Janis's",
+    "Janissary",
+    "Janissary's",
+    "Janna",
+    "Janna's",
+    "Jansen",
+    "Jansen's",
+    "Januaries",
+    "January",
+    "January's",
+    "Japan",
+    "Japan's",
+    "Japanese",
+    "Jared",
+    "Jared's",
+    "Jarred",
+    "Jarrett",
+    "Jarrett's",
+    "Jarrod",
+    "Jarrod's",
+    "Jarvis",
+    "Jarvis's",
+    "Jasmine",
+    "Jasmine's",
+    "Jason",
+    "Jason's",
+    "Jasper",
+    "Jasper's",
+    "Java",
+    "Java's",
+    "Javanese",
+    "Javier",
+    "Javier's",
+    "Jay",
+    "Jay's",
+    "Jaycee",
+    "Jaycee's",
+    "Jaycees",
+    "Jayne",
+    "Jayne's",
+    "Jean",
+    "Jean's",
+    "Jeanette",
+    "Jeanette's",
+    "Jeanie",
+    "Jeanie's",
+    "Jeanine",
+    "Jeanine's",
+    "Jeanne",
+    "Jeanne's",
+    "Jeannette",
+    "Jeannette's",
+    "Jeannie",
+    "Jeannie's",
+    "Jeannine",
+    "Jeannine's",
+    "Jed",
+    "Jed's",
+    "Jedi",
+    "Jedi's",
+    "Jeep",
+    "Jeeps",
+    "Jeff",
+    "Jeff's",
+    "Jefferson",
+    "Jefferson's",
+    "Jeffery",
+    "Jeffery's",
+    "Jeffrey",
+    "Jeffrey's",
+    "Jehovah",
+    "Jehovah's",
+    "Jekyll",
+    "Jemima",
+    "Jemima's",
+    "Jemmy",
+    "Jemmy's",
+    "Jen",
+    "Jen's",
+    "Jena",
+    "Jena's",
+    "Jenkins",
+    "Jenkins's",
+    "Jenna",
+    "Jenna's",
+    "Jennie",
+    "Jennie's",
+    "Jennifer",
+    "Jennifer's",
+    "Jennings",
+    "Jennings's",
+    "Jenny",
+    "Jenny's",
+    "Jens",
+    "Jensen",
+    "Jensen's",
+    "Jerald",
+    "Jerald's",
+    "Jeremiah",
+    "Jeremiah's",
+    "Jeremiahs",
+    "Jeremy",
+    "Jeremy's",
+    "Jeri",
+    "Jeri's",
+    "Jericho",
+    "Jericho's",
+    "Jeroboam",
+    "Jeroboam's",
+    "Jerold",
+    "Jerold's",
+    "Jerome",
+    "Jerome's",
+    "Jerrod",
+    "Jerrod's",
+    "Jerrold",
+    "Jerrold's",
+    "Jerry",
+    "Jerry's",
+    "Jersey",
+    "Jersey's",
+    "Jerseys",
+    "Jerusalem",
+    "Jerusalem's",
+    "Jervis",
+    "Jervis's",
+    "Jess",
+    "Jess's",
+    "Jesse",
+    "Jesse's",
+    "Jessica",
+    "Jessica's",
+    "Jessie",
+    "Jessie's",
+    "Jesuit",
+    "Jesuit's",
+    "Jesuits",
+    "Jesus",
+    "Jew",
+    "Jew's",
+    "Jewel",
+    "Jewel's",
+    "Jewell",
+    "Jewell's",
+    "Jewess",
+    "Jewess's",
+    "Jewesses",
+    "Jewish",
+    "Jewries",
+    "Jewry",
+    "Jewry's",
+    "Jews",
+    "Jezebel",
+    "Jezebel's",
+    "Jezebels",
+    "Jill",
+    "Jill's",
+    "Jillian",
+    "Jillian's",
+    "Jim",
+    "Jim's",
+    "Jimenez",
+    "Jimenez's",
+    "Jimmie",
+    "Jimmie's",
+    "Jimmy",
+    "Jimmy's",
+    "Jo",
+    "Jo's",
+    "Joachim",
+    "Joachim's",
+    "Joan",
+    "Joan's",
+    "Joann",
+    "Joann's",
+    "Joanna",
+    "Joanna's",
+    "Joanne",
+    "Joanne's",
+    "Joaquin",
+    "Joaquin's",
+    "Job",
+    "Job's",
+    "Jobs",
+    "Jocelyn",
+    "Jocelyn's",
+    "Jock",
+    "Jock's",
+    "Jockey",
+    "Jocko",
+    "Jocko's",
+    "Jodi",
+    "Jodi's",
+    "Jodie",
+    "Jodie's",
+    "Jody",
+    "Jody's",
+    "Joe",
+    "Joe's",
+    "Joel",
+    "Joel's",
+    "Joes",
+    "Joey",
+    "Joey's",
+    "Johan",
+    "Johan's",
+    "Johann",
+    "Johanna",
+    "Johanna's",
+    "Johannes",
+    "Johannesburg",
+    "Johannesburg's",
+    "John",
+    "John's",
+    "Johnnie",
+    "Johnnie's",
+    "Johnny",
+    "Johnny's",
+    "Johns",
+    "Johnson",
+    "Johnson's",
+    "Johnston",
+    "Johnston's",
+    "Jolene",
+    "Jolene's",
+    "Joliet's",
+    "Jon",
+    "Jon's",
+    "Jonah",
+    "Jonah's",
+    "Jonahs",
+    "Jonas",
+    "Jonathan",
+    "Jonathan's",
+    "Jonathon",
+    "Jonathon's",
+    "Jones",
+    "Joneses",
+    "Joni",
+    "Joni's",
+    "Joplin",
+    "Joplin's",
+    "Jordan",
+    "Jordan's",
+    "Jordanian",
+    "Jordanians",
+    "Jordon",
+    "Jordon's",
+    "Jorge",
+    "Jorge's",
+    "Jose",
+    "Jose's",
+    "Josef",
+    "Josef's",
+    "Josefina",
+    "Josefina's",
+    "Joseph",
+    "Joseph's",
+    "Josephina",
+    "Josephina's",
+    "Josephine",
+    "Josephine's",
+    "Josephs",
+    "Josephus",
+    "Josephus's",
+    "Josh",
+    "Josh's",
+    "Joshua",
+    "Joshua's",
+    "Josiah",
+    "Josiah's",
+    "Josie",
+    "Josie's",
+    "Joule",
+    "Joule's",
+    "Jove",
+    "Jove's",
+    "Joy",
+    "Joy's",
+    "Joyce",
+    "Joyce's",
+    "Joyner",
+    "Joyner's",
+    "Juan",
+    "Juan's",
+    "Juana",
+    "Juana's",
+    "Juanita",
+    "Juanita's",
+    "Juarez",
+    "Jud",
+    "Judah",
+    "Judah's",
+    "Judaic",
+    "Judaism",
+    "Judaism's",
+    "Judas",
+    "Judases",
+    "Judd",
+    "Judd's",
+    "Jude",
+    "Jude's",
+    "Judea",
+    "Judea's",
+    "Judean",
+    "Judeans",
+    "Judges",
+    "Judi",
+    "Judi's",
+    "Judie",
+    "Judie's",
+    "Judith",
+    "Judith's",
+    "Judson",
+    "Judson's",
+    "Judy",
+    "Judy's",
+    "Juggernaut",
+    "Juggernaut's",
+    "Jul",
+    "Jul's",
+    "Jules",
+    "Julia",
+    "Julia's",
+    "Julian",
+    "Julian's",
+    "Juliana",
+    "Juliana's",
+    "Juliann",
+    "Juliann's",
+    "Julianne",
+    "Julianne's",
+    "Julie",
+    "Julie's",
+    "Julienne",
+    "Julienne's",
+    "Julies",
+    "Juliet",
+    "Juliet's",
+    "Julio",
+    "Julio's",
+    "Julius",
+    "Julius's",
+    "Julliard",
+    "Julliard's",
+    "July",
+    "July's",
+    "Jun",
+    "June",
+    "June's",
+    "Juneau",
+    "Juneau's",
+    "Junes",
+    "Jung",
+    "Jung's",
+    "Jungian",
+    "Jungians",
+    "Junior",
+    "Juniors",
+    "Junker",
+    "Junker's",
+    "Junkers",
+    "Juno",
+    "Juno's",
+    "Jupiter",
+    "Jupiter's",
+    "Jurassic",
+    "Justice",
+    "Justice's",
+    "Justin",
+    "Justin's",
+    "Justine",
+    "Justine's",
+    "Justinian",
+    "Justinian's",
+    "Justus",
+    "Justus's",
+    "Jutland",
+    "Jutland's",
+    "Juvenal",
+    "Juvenal's",
+];
+chrome.storage.sync.set({"spellc_dic_en_j": spellc_dictionary_words}, function () {
+    console.log('data was recorded');
+});

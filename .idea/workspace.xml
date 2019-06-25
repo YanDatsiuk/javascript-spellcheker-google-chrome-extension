@@ -2,50 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e141bc42-1185-4b63-b390-fcc6f15e5b52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spellc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/g.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/h.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/i.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/j.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/k.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/l.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/m.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/n.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/o.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/p.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/q.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/r.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/s.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/t.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/u.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/v.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/w.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/x.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/y.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/en/z.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/get_started128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/get_started16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/get_started32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/get_started48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/splitter.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wrapper.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/h.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/i.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/j.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/k.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/l.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/m.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/o.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/p.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/s.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/t.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/u.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/v.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/w.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/x.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries/en/z.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,32 +46,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/g.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="4033" column="41" selection-start-line="4033" selection-start-column="41" selection-end-line="4033" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/f.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="4967" column="41" selection-start-line="4967" selection-start-column="41" selection-end-line="4967" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/e.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="4763" column="41" selection-start-line="4763" selection-start-column="41" selection-end-line="4763" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/d.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="7446" column="41" selection-start-line="7446" selection-start-column="41" selection-end-line="7446" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/c.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="11339" column="41" selection-start-line="11339" selection-start-column="41" selection-end-line="11339" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/b.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="7020" column="41" selection-start-line="7020" selection-start-column="41" selection-end-line="7020" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="65" column="7" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="65" selection-end-column="7" />
+            <state relative-caret-position="111">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionary.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#585795#585812#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/splitter.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="287">
+              <caret line="36" column="59" lean-forward="true" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wrapper.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries/en/k.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3579">
+              <caret line="1158" column="41" selection-start-line="1158" selection-start-column="41" selection-end-line="1158" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -96,7 +142,11 @@
     <findStrings>
       <find>,</find>
       <find>Aaron</find>
+      <find>&gt; dictionaries/en/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&gt; dictionaries/wrapped/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,6 +157,33 @@
         <option value="$PROJECT_DIR$/dictionary.js" />
         <option value="$PROJECT_DIR$/splitter.sh" />
         <option value="$PROJECT_DIR$/list-temp2.txt" />
+        <option value="$PROJECT_DIR$/wrapper.sh" />
+        <option value="$PROJECT_DIR$/dictionaries/en/z.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/y.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/x.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/w.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/v.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/u.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/t.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/s.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/r.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/q.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/p.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/o.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/n.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/m.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/l.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/k.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/j.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/i.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/h.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/g.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/f.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/e.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/d.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/c.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/b.js" />
+        <option value="$PROJECT_DIR$/dictionaries/en/a.js" />
         <option value="$PROJECT_DIR$/manifest.json" />
       </list>
     </option>
@@ -130,6 +207,17 @@
               <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
               <item name="spellc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spellc" type="462c0819:PsiDirectoryNode" />
+              <item name="dictionaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spellc" type="462c0819:PsiDirectoryNode" />
+              <item name="dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="en" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,8 +228,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Documents\code\spellc\dictionaries\en" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Documents\code\spellc" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,15 +262,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561480450791</updated>
-      <workItem from="1561480452527" duration="2126000" />
+      <workItem from="1561480452527" duration="5940000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1561482629410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561482629411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2126000" />
+    <option name="totallyTimeSpent" value="5940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -220,22 +326,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/b.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/c.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/d.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/e.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/f.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dictionary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -246,23 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/a.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8746">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/en/h.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/splitter.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list-temp2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -270,10 +348,213 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/z.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="267" lean-forward="true" selection-start-line="267" selection-end-line="270" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/y.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="380" column="41" selection-start-line="380" selection-start-column="41" selection-end-line="380" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/x.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="72" column="41" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/w.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="2853" column="41" selection-start-line="2853" selection-start-column="41" selection-end-line="2853" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/v.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="1678" column="41" selection-start-line="1678" selection-start-column="41" selection-end-line="1678" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/u.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="2403" column="41" selection-start-line="2403" selection-start-column="41" selection-end-line="2403" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/t.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="5367" column="41" selection-start-line="5367" selection-start-column="41" selection-end-line="5367" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/s.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="11765" column="41" selection-start-line="11765" selection-start-column="41" selection-end-line="11765" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/r.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="6177" column="41" selection-start-line="6177" selection-start-column="41" selection-end-line="6177" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/q.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="517" column="41" selection-start-line="517" selection-start-column="41" selection-end-line="517" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/p.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="8266" column="41" selection-start-line="8266" selection-start-column="41" selection-end-line="8266" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/o.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="2580" column="41" selection-start-line="2580" selection-start-column="41" selection-end-line="2580" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="2079" column="41" selection-start-line="2079" selection-start-column="41" selection-end-line="2079" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/m.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="6345" column="41" selection-start-line="6345" selection-start-column="41" selection-end-line="6345" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/l.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="3747" column="41" selection-start-line="3747" selection-start-column="41" selection-end-line="3747" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/j.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="1315" column="41" selection-start-line="1315" selection-start-column="41" selection-end-line="1315" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/i.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="4478" column="41" selection-start-line="4478" selection-start-column="41" selection-end-line="4478" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/h.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="4569" column="41" selection-start-line="4569" selection-start-column="41" selection-end-line="4569" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/g.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="4033" column="41" selection-start-line="4033" selection-start-column="41" selection-end-line="4033" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/f.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="4967" column="41" selection-start-line="4967" selection-start-column="41" selection-end-line="4967" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/e.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="4763" column="41" selection-start-line="4763" selection-start-column="41" selection-end-line="4763" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="7446" column="41" selection-start-line="7446" selection-start-column="41" selection-end-line="7446" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/c.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="11339" column="41" selection-start-line="11339" selection-start-column="41" selection-end-line="11339" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="7020" column="41" selection-start-line="7020" selection-start-column="41" selection-end-line="7020" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/k.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3579">
+          <caret line="1158" column="41" selection-start-line="1158" selection-start-column="41" selection-end-line="1158" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="65" column="7" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="65" selection-end-column="7" />
+        <state relative-caret-position="111">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53140">
+          <caret line="6860" column="17" lean-forward="true" selection-start-line="6860" selection-end-line="6861" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrapper.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitter.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="36" column="59" lean-forward="true" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
         </state>
       </provider>
     </entry>
