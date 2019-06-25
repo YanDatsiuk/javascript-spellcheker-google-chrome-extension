@@ -1,0 +1,70 @@
+{
+  "name": "Spell checker",
+  "version": "1.0",
+  "description": "Spell checker for english language",
+  "permissions": [
+    "activeTab",
+    "declarativeContent",
+    "storage",
+    "*://stackoverflow.com/*"
+  ],
+  "options_page": "options.html",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/get_started16.png",
+      "32": "images/get_started32.png",
+      "48": "images/get_started48.png",
+      "128": "images/get_started128.png"
+    }
+  },
+  "icons": {
+    "16": "images/get_started16.png",
+    "32": "images/get_started32.png",
+    "48": "images/get_started48.png",
+    "128": "images/get_started128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://stackoverflow.com/*"
+      ],
+      "js": [
+        "dictionaries/en/a.js",
+        "dictionaries/en/b.js",
+        "dictionaries/en/c.js",
+        "dictionaries/en/d.js",
+        "dictionaries/en/e.js",
+        "dictionaries/en/f.js",
+        "dictionaries/en/g.js",
+        "dictionaries/en/h.js",
+        "dictionaries/en/i.js",
+        "dictionaries/en/j.js",
+        "dictionaries/en/k.js",
+        "dictionaries/en/l.js",
+        "dictionaries/en/m.js",
+        "dictionaries/en/n.js",
+        "dictionaries/en/o.js",
+        "dictionaries/en/p.js",
+        "dictionaries/en/q.js",
+        "dictionaries/en/r.js",
+        "dictionaries/en/s.js",
+        "dictionaries/en/t.js",
+        "dictionaries/en/u.js",
+        "dictionaries/en/v.js",
+        "dictionaries/en/w.js",
+        "dictionaries/en/x.js",
+        "dictionaries/en/y.js",
+        "dictionaries/en/z.js",
+        "core.js"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}

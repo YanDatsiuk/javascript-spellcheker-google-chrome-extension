@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e141bc42-1185-4b63-b390-fcc6f15e5b52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spellc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/g.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/h.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/i.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/j.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/k.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/l.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/m.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/o.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/p.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/q.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/s.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/t.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/u.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/v.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/w.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/x.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/y.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/en/z.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/get_started48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/splitter.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="65" column="7" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="65" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#585795#585812#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/splitter.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+      <find>Aaron</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dictionary.js" />
+        <option value="$PROJECT_DIR$/splitter.sh" />
+        <option value="$PROJECT_DIR$/list-temp2.txt" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spellc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e141bc42-1185-4b63-b390-fcc6f15e5b52" name="Default Changelist" comment="" />
+      <created>1561480450791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561480450791</updated>
+      <workItem from="1561480452527" duration="2126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/b.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/c.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/d.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/e.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/f.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#585795#585812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8746">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/h.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/splitter.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list-temp2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="65" column="7" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="65" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
