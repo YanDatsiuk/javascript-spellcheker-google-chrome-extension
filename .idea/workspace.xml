@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e141bc42-1185-4b63-b390-fcc6f15e5b52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wrapper.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaries/splitter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/g.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/h.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/i.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/j.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/k.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/l.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/m.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/o.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/p.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/q.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/t.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/u.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/v.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/w.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/x.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/en/z.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionaries/en/g.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="4033" column="41" selection-start-line="4033" selection-start-column="41" selection-end-line="4033" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionaries/en/f.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/splitter.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="612">
               <caret line="36" column="59" lean-forward="true" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionaries/splitter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -185,6 +157,7 @@
         <option value="$PROJECT_DIR$/dictionaries/en/b.js" />
         <option value="$PROJECT_DIR$/dictionaries/en/a.js" />
         <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/dictionaries/splitter.php" />
       </list>
     </option>
   </component>
@@ -194,7 +167,9 @@
     <option name="width" value="1939" />
     <option name="height" value="1049" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -211,12 +186,6 @@
               <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
               <item name="spellc" type="462c0819:PsiDirectoryNode" />
               <item name="dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spellc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spellc" type="462c0819:PsiDirectoryNode" />
-              <item name="dictionaries" type="462c0819:PsiDirectoryNode" />
-              <item name="en" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561480450791</updated>
-      <workItem from="1561480452527" duration="5940000" />
+      <workItem from="1561480452527" duration="6266000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1561482629410</created>
@@ -271,11 +240,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561482629411</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added splitter for decreasing dictionary size">
+      <created>1561487974698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561487974698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5940000" />
+    <option name="totallyTimeSpent" value="6266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -328,7 +304,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added splitter for decreasing dictionary size" />
+    <option name="LAST_COMMIT_MESSAGE" value="added splitter for decreasing dictionary size" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dictionary.js">
@@ -553,8 +530,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/splitter.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="612">
           <caret line="36" column="59" lean-forward="true" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/splitter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
