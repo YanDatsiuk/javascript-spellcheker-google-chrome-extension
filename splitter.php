@@ -18,7 +18,7 @@ foreach ($chunked_words as $_words) {
     $index++;
 }
 
-include "dictionaries/dictionary_template.php";
+inject_generated_scripts_into_manifest();
 
 /**
  * Convert all words to lowercase and sort all words in alphabetical order
@@ -29,7 +29,7 @@ include "dictionaries/dictionary_template.php";
 function order_dictionary($words)
 {
     //convert all words to lowercase
-    for ($i = 0; $i< count($words); $i++){
+    for ($i = 0; $i < count($words); $i++) {
         $words[$i] = strtolower($words[$i]);
     }
 
@@ -38,4 +38,24 @@ function order_dictionary($words)
 
     //return result
     return $words;
+}
+
+//todo comment what is going on here...
+function inject_generated_scripts_into_manifest()
+{
+    $manifest = file_get_contents("manifest.json");
+
+    $manifest_as_array = json_decode($manifest, true);
+
+    exec("ls dictionaries/en", $chunked_en_dictionaries);
+
+    $scripts_to_include = array_merge($manifest_as_array["content_scripts"][0]["js"], $chunked_en_dictionaries);
+
+    $scripts_to_include = array_unique($scripts_to_include);
+
+    $manifest_as_array["content_scripts"][0]["js"] = $scripts_to_include;
+
+//    print_r($manifest_as_array);
+
+    file_put_contents("manifest.json", json_encode($manifest_as_array));
 }
