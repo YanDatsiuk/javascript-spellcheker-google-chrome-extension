@@ -1094,7 +1094,7 @@ Aztec
 Aztec's
 Aztecan
 Aztecs
-+++++++++
+
 B
 B's
 Baal
@@ -2343,7 +2343,7 @@ Byzantine
 Byzantines
 Byzantium
 Byzantium's
-+++++++++
+
 C
 C's
 Ca
@@ -3741,7 +3741,7 @@ Czechoslovaks
 Czechs
 Czerny
 Czerny's
-+++++++++
+
 D
 D'Arcy
 D's
@@ -4457,7 +4457,7 @@ Dyson's
 Dzerzhinsky
 Dzerzhinsky's
 D�sseldorf
-+++++++++
+
 E
 E's
 Earl
@@ -5001,7 +5001,7 @@ Ezekiel
 Ezekiel's
 Ezra
 Ezra's
-+++++++++
+
 F
 F's
 FAQ
@@ -5497,7 +5497,7 @@ Fulton
 Fulton's
 Funafuti
 Furies
-+++++++++
+
 G
 G's
 Gabby
@@ -6291,7 +6291,7 @@ Gypsy
 Gypsy's
 G�del
 G�del's
-+++++++++
+
 H
 H's
 Ha
@@ -7081,7 +7081,7 @@ Hyperion's
 Hyundai
 Hyundai's
 Hz
-+++++++++
+
 I
 I'd
 I'll
@@ -7364,7 +7364,7 @@ Ivory's
 Ivy
 Ivy's
 Iyar
-+++++++++
+
 J
 J's
 Jacinta
@@ -7836,7 +7836,7 @@ Jutland
 Jutland's
 Juvenal
 Juvenal's
-+++++++++
+
 K
 KO'd
 KO'ing
@@ -8299,7 +8299,7 @@ Kyoto's
 Kyrgyzstan
 Kyushu
 Kyushu's
-+++++++++
+
 L
 L's
 La
@@ -9060,7 +9060,7 @@ Lyon's
 Lyons
 Lysol
 Lysol's
-+++++++++
+
 M
 M's
 MHz
@@ -10459,7 +10459,7 @@ Myron
 Myron's
 Myrtle
 Myrtle's
-+++++++++
+
 N
 N'Djamena
 N's
@@ -10906,7 +10906,7 @@ Nye
 Nye's
 Nyssa
 Nyssa's
-+++++++++
+
 O
 O'Brien
 O'Connell
@@ -11202,7 +11202,7 @@ Ozark's
 Ozarks
 Ozzie
 Ozzie's
-+++++++++
+
 P
 P's
 Pa
@@ -11996,7 +11996,7 @@ Pythagoras's
 Pythagorean
 Python
 Python's
-+++++++++
+
 Q
 Q's
 Qaddafi
@@ -12054,7 +12054,7 @@ Quixote's
 Qumran
 Qumran's
 Quonset
-+++++++++
+
 R
 R's
 Ra
@@ -12770,7 +12770,7 @@ Ryukyu
 Ryukyu's
 Ryun
 Ryun's
-+++++++++
+
 S
 Saab
 Saab's
@@ -14065,7 +14065,7 @@ Syria
 Syria's
 Syrian
 Syrians
-+++++++++
+
 T
 T's
 Ta
@@ -14752,7 +14752,7 @@ Tyrone's
 Tyson
 Tyson's
 Tyson'sUdall
-+++++++++
+
 U
 UK
 UK's
@@ -14840,7 +14840,7 @@ Uzbek's
 Uzbekistan
 Uzi
 Uzis
-+++++++++
+
 V
 V's
 Vaclav
@@ -15113,7 +15113,7 @@ Vulcan's
 Vulgate
 Vulgate's
 Vulgates
-+++++++++
+
 W
 W's
 Wabash
@@ -15589,7 +15589,7 @@ Wyoming's
 Wyomingite
 Wyomingite's
 Wyomingites
-+++++++++
+
 X
 X's
 Xanthippe
@@ -15612,7 +15612,7 @@ Xiaoping's
 Xmas
 Xmas's
 Xmases
-+++++++++
+
 Y
 Y's
 Yahweh
@@ -15724,7 +15724,7 @@ Yvette
 Yvette's
 Yvonne
 Yvonne's
-+++++++++
+
 Z
 Zach
 Zach's
@@ -15832,7 +15832,7 @@ Zwingli
 Zwingli's
 Zworykin
 Zworykin's
-+++++++++
+
 a
 aardvark
 aardvark's
@@ -21621,7 +21621,7 @@ azotizing
 azure
 azure's
 azures
-+++++++++
+
 b
 baa
 baaed
@@ -27392,7 +27392,7 @@ byways
 byword
 byword's
 bywords
-+++++++++
+
 c
 ca
 cab
@@ -37333,7 +37333,7 @@ czar's
 czarism
 czarism's
 czars
-+++++++++
+
 d
 d'Estaing
 d'art
@@ -44063,7 +44063,7 @@ d�colletages
 d�collet�
 d�mod�
 d�tente
-+++++++++
+
 e
 e.g.
 eBay
@@ -48282,7 +48282,7 @@ eyewitness's
 eyewitnesses
 eying
 eyrie's
-+++++++++
+
 f
 fable
 fable's
@@ -52753,7 +52753,7 @@ fwd
 f�te
 f�te's
 f�tes
-+++++++++
+
 g
 gab
 gabardine
@@ -55992,7 +55992,7 @@ gyrostabilisers
 gyrostabilizer
 gyrostabilizer's
 gyrostabilizers
-+++++++++
+
 h
 ha
 haberdasher
@@ -59771,7 +59771,7 @@ hysteric's
 hysterical
 hysterically
 hysterics
-+++++++++
+
 i.e.
 iamb
 iamb's
@@ -63966,7 +63966,7 @@ ivory's
 ivy
 ivy's
 ix
-+++++++++
+
 j
 jab
 jabbed
@@ -64809,7 +64809,7 @@ juxtaposing
 juxtaposition
 juxtaposition's
 juxtapositions
-+++++++++
+
 k
 kHz
 kV
@@ -65504,7 +65504,7 @@ kvetched
 kvetches
 kvetching
 kylie
-+++++++++
+
 l
 la
 la's
@@ -68490,7 +68490,7 @@ lyricists
 lyrics
 lysine
 lysine's
-+++++++++
+
 m
 ma
 ma'am
@@ -73436,7 +73436,7 @@ myxo
 m�l�e
 m�l�e's
 m�l�es
-+++++++++
+
 n
 nab
 nabbed
@@ -75068,7 +75068,7 @@ nymphomaniac
 nymphomaniacs
 nymphs
 n�e
-+++++++++
+
 o
 o'clock
 o'er
@@ -77352,7 +77352,7 @@ oysters
 oz
 ozone
 ozone's
-+++++++++
+
 p
 pH
 pH's
@@ -84824,7 +84824,7 @@ pyroxenes
 python
 python's
 pythons
-+++++++++
+
 q
 qt
 qty
@@ -85283,7 +85283,7 @@ quotient's
 quotients
 quoting
 qwerty
-+++++++++
+
 r
 rabbet
 rabbet's
@@ -90744,7 +90744,7 @@ rutting
 rutty
 rye
 rye's
-+++++++++
+
 s
 sabbatical
 sabbaticals
@@ -101214,7 +101214,7 @@ systolic
 s�ance
 s�ance's
 s�ances
-+++++++++
+
 t
 tab
 tab's
@@ -105894,7 +105894,7 @@ tyro's
 tyros
 tyrosine
 tyrosine's
-+++++++++
+
 u
 ubiquitous
 ubiquitously
@@ -108209,7 +108209,7 @@ uvula's
 uvular
 uvulas
 uxorious
-+++++++++
+
 v
 vac
 vac's
@@ -109614,7 +109614,7 @@ vulva's
 vulvae
 vv
 vying
-+++++++++
+
 w
 wackier
 wackiest
@@ -111991,7 +111991,7 @@ wt
 wunderkind
 wunderkinds
 wurley
-+++++++++
+
 x
 xenon
 xenon's
@@ -112040,7 +112040,7 @@ xylophone's
 xylophones
 xylophonist
 xylophonists
-+++++++++
+
 y
 y'all
 yabber
@@ -112308,7 +112308,7 @@ yuppies
 yurt
 yurt's
 yurts
-+++++++++
+
 z
 zaffre
 zambuck
