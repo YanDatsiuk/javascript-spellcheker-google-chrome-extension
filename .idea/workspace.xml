@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e141bc42-1185-4b63-b390-fcc6f15e5b52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries/dictionary_template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/splitter.php" beforeDir="false" afterPath="$PROJECT_DIR$/splitter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/splitter.php" beforeDir="false" afterPath="$PROJECT_DIR$/splitter.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +22,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/splitter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="304">
+              <caret line="59" column="70" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionary.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="34152" column="8" selection-start-line="34152" selection-start-column="7" selection-end-line="34152" selection-end-column="8" />
+              <folding>
+                <element signature="e#585464#585481#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,17 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionaries/dictionary_template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionaries/en/a.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117062">
-              <caret line="6886" selection-start-line="6886" selection-end-line="6888" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -55,10 +57,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="64" column="31" selection-start-line="39" selection-start-column="8" selection-end-line="64" selection-end-column="31" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/options.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -68,6 +75,7 @@
       <find>,</find>
       <find>Aaron</find>
       <find>&gt; dictionaries/en/</find>
+      <find>�</find>
     </findStrings>
     <replaceStrings>
       <replace>&gt; dictionaries/wrapped/</replace>
@@ -79,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dictionary.js" />
         <option value="$PROJECT_DIR$/splitter.sh" />
         <option value="$PROJECT_DIR$/list-temp2.txt" />
         <option value="$PROJECT_DIR$/wrapper.sh" />
@@ -109,9 +116,12 @@
         <option value="$PROJECT_DIR$/dictionaries/en/c.js" />
         <option value="$PROJECT_DIR$/dictionaries/en/b.js" />
         <option value="$PROJECT_DIR$/dictionaries/en/a.js" />
-        <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/dictionaries/splitter.php" />
         <option value="$PROJECT_DIR$/dictionaries/dictionary_template.php" />
+        <option value="$PROJECT_DIR$/dictionaries/en/1" />
+        <option value="$PROJECT_DIR$/dictionary2.js" />
+        <option value="$PROJECT_DIR$/dictionary.js" />
+        <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/splitter.php" />
       </list>
     </option>
@@ -161,6 +171,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -194,7 +205,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561480450791</updated>
       <workItem from="1561480452527" duration="6299000" />
-      <workItem from="1561655894078" duration="3697000" />
+      <workItem from="1561655894078" duration="7830000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1561482629410</created>
@@ -217,14 +228,29 @@
       <option name="project" value="LOCAL" />
       <updated>1561529272401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added splitter and splitted js dictionary words">
+      <created>1561659870560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561659870560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added ordering and converting words to lowercase in dictionary">
+      <created>1561662938855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561662938855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9996000" />
+    <option name="totallyTimeSpent" value="14129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,7 +301,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added splitter for decreasing dictionary size" />
     <MESSAGE value="added plan for splitter.php script" />
-    <option name="LAST_COMMIT_MESSAGE" value="added plan for splitter.php script" />
+    <MESSAGE value="added splitter and splitted js dictionary words" />
+    <MESSAGE value="added ordering and converting words to lowercase in dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ordering and converting words to lowercase in dictionary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/list-temp2.txt" />
@@ -468,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -485,24 +506,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionary.js">
+    <entry file="file://$PROJECT_DIR$/dictionaries/dictionary_template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries/dictionary_template.php">
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="2690">
+          <caret line="389" lean-forward="true" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="34152" column="8" selection-start-line="34152" selection-start-column="7" selection-end-line="34152" selection-end-column="8" />
+          <folding>
+            <element signature="e#585464#585481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/spellc_dic_en_8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16764" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/spellc_dic_en_10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="996" column="8" lean-forward="true" selection-start-line="996" selection-start-column="8" selection-end-line="996" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/spellc_dic_en_0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16594">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries/en/spellc_dic_en_112.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="64" column="31" selection-start-line="39" selection-start-column="8" selection-end-line="64" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/splitter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+        <state relative-caret-position="304">
+          <caret line="59" column="70" selection-start-line="59" selection-start-column="70" selection-end-line="59" selection-end-column="70" />
         </state>
       </provider>
     </entry>

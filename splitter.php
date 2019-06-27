@@ -57,5 +57,5 @@ function inject_generated_scripts_into_manifest()
 
 //    print_r($manifest_as_array);
 
-    file_put_contents("manifest.json", json_encode($manifest_as_array));
+    file_put_contents("manifest.json", json_encode($manifest_as_array, JSON_PRETTY_PRINT));
 }
