@@ -14,7 +14,7 @@ foreach ($_words as $word) {
 $result .= "];". PHP_EOL;
 
 $result .= <<< JS
-    chrome.storage.sync.set({"$_storage_key_name": spellc_dictionary_words}, function () {
+    chrome.storage.local.set({"$_storage_key_name": spellc_dictionary_words}, function () {
         console.log('data was recorded into $_storage_key_name');
 });
 

@@ -1000,6 +1000,6 @@ var spellc_dictionary_words = [
 "industrialist",
 "industrialist's",
 ];
-    chrome.storage.sync.set({"spellc_dic_en_52": spellc_dictionary_words}, function () {
+    chrome.storage.local.set({"spellc_dic_en_52": spellc_dictionary_words}, function () {
         console.log('data was recorded into spellc_dic_en_52');
 });

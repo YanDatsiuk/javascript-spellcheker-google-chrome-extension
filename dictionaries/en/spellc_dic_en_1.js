@@ -1000,6 +1000,6 @@ var spellc_dictionary_words = [
 "agronomist",
 "agronomist's",
 ];
-    chrome.storage.sync.set({"spellc_dic_en_1": spellc_dictionary_words}, function () {
+    chrome.storage.local.set({"spellc_dic_en_1": spellc_dictionary_words}, function () {
         console.log('data was recorded into spellc_dic_en_1');
 });

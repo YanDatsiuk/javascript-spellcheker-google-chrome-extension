@@ -3,6 +3,8 @@
 //read file dictionary.js
 $all_words = file('dictionary.js');
 
+exec("rm dictionaries/en/*");
+
 //convert all words to lowercase
 //and sort all words in alphabetical order
 $all_words = (order_dictionary($all_words));
@@ -48,6 +50,8 @@ function inject_generated_scripts_into_manifest()
     $manifest_as_array = json_decode($manifest, true);
 
     exec("ls dictionaries/en", $chunked_en_dictionaries);
+
+    $chunked_en_dictionaries = array_map(function($filename) { return 'dictionaries/en/'.$filename; }, $chunked_en_dictionaries);
 
     $scripts_to_include = array_merge($manifest_as_array["content_scripts"][0]["js"], $chunked_en_dictionaries);
 
