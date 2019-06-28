@@ -16,9 +16,11 @@ changeColor.onclick = function(element) {
   chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
     chrome.tabs.executeScript(
         tabs[0].id,
-        {code: '//todo run a function for validating page for spelling'});
+        {code: 'spellc_webpage();'});
   });
 };
+
+
 
 //var isInDict = $Spelling.BinSpellCheck("word")
 
